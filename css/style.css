@@ -392,6 +392,13 @@ a:hover {
   }
 }
 
+#textLoad {
+  margin-top: 60vh;
+  text-align: center;
+  justify-content: center;
+  font-size: 5rem;
+  color: #0078ff;
+}
 /*======================================
 //--//-->   NAVBAR
 ======================================*/
